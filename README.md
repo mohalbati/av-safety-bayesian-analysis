@@ -1,4 +1,6 @@
 # How much evidence is enough? A Bayesian rare-event analysis of robotaxi crash data
+[![DOI](https://zenodo.org/badge/1436574246.svg)](https://doi.org/10.5281/zenodo.23732384)
+
 
 An independent reconstruction of Waymo's rider-only crash record from NHTSA's public Standing General Order (SGO 2021-01) crash reports. It analyses that record with the rare-event Bayesian methods of nuclear probabilistic risk assessment (PRA) and compares the approach with the methodology Waymo publishes on its Safety Impact hub.
 
@@ -80,7 +82,7 @@ See Section 8 of the full report.
 
 ## Citation
 
-> Albati, M. (2026). *How Much Evidence Is Enough? A Bayesian Rare-Event Analysis of Driverless-Vehicle Crash Data.* Technical report and code. https://github.com/mohalbati/av-safety-bayesian-analysis
+> Albati, M. (2026). *How Much Evidence Is Enough? A Bayesian Rare-Event Analysis of Driverless-Vehicle Crash Data* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.23732384
 
 ## License
 
