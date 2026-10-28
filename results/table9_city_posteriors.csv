@@ -1,0 +1,16 @@
+metro,outcome,RO miles (M),crashes (all),events k,posterior median IPMM,95% low,95% high,benchmark IPMM,P(better),reduction median %,reduction 95% low %
+Phoenix,Any injury,92.121,447,40,0.436,0.315,0.585,1.9539,1.0,77.7,70.0
+Phoenix,Airbag (any vehicle),92.121,447,23,0.251,0.163,0.368,1.3227,1.0,81.0,72.2
+Phoenix,Serious or worse,92.121,447,3,0.034,0.009,0.087,0.10353,0.992,66.8,16.0
+San Francisco,Any injury,82.421,822,52,0.633,0.476,0.82,6.6394,1.0,90.5,87.7
+San Francisco,Airbag (any vehicle),82.421,822,26,0.317,0.211,0.455,1.9189,1.0,83.4,76.3
+San Francisco,Serious or worse,82.421,822,3,0.038,0.01,0.097,0.39072,1.0,90.2,75.1
+Los Angeles,Any injury,67.098,439,56,0.837,0.637,1.075,2.5537,1.0,67.2,57.9
+Los Angeles,Airbag (any vehicle),67.098,439,17,0.256,0.153,0.396,1.2659,1.0,79.8,68.7
+Los Angeles,Serious or worse,67.098,439,0,0.003,0.0,0.037,0.15617,1.0,97.8,76.1
+Austin,Any injury,21.064,163,11,0.53,0.277,0.904,3.2554,1.0,83.7,72.3
+Austin,Airbag (any vehicle),21.064,163,4,0.198,0.064,0.452,2.3233,1.0,91.5,80.6
+Austin,Serious or worse,21.064,163,0,0.011,0.0,0.119,0.17493,0.9934,93.8,31.6
+Atlanta,Any injury,8.624,62,7,0.831,0.363,1.594,6.5803,1.0,87.4,75.8
+Atlanta,Airbag (any vehicle),8.624,62,2,0.252,0.048,0.744,2.8312,1.0,91.1,73.7
+Atlanta,Serious or worse,8.624,62,0,0.026,0.0,0.291,0.22864,0.9529,88.4,-28.4

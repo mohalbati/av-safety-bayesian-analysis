@@ -1,0 +1,9 @@
+,0
+only_ours_by_SV_movement,"{'Stopped': 5, 'Proceeding Straight': 2, 'Making Left Turn': 1, 'Entering Traffic': 1}"
+only_ours_crash_with,"{'Passenger Car': 5, 'Pickup Truck': 2, 'Van': 1, 'SUV': 1}"
+only_waymo_crash_type,"{'V2V F2R': 2, 'All Others': 1, 'Cyclist': 1}"
+only_waymo_in_our_clean_data,3
+only_waymo_excluded_by,"{'test_driver': 0, 'ads_not_engaged': 1, 'manual_mode': 1, 'date_after_cutoff': 0}"
+waymo_injury_not_ours_sev,"{'Unknown': 17, 'Property Damage. No Injured Reported': 1, 'No Injuries Reported': 1}"
+ours_serious_not_waymo_sev,"{'Serious': 2, 'Serious W/ Hospitalization': 1}"
+waymo_airbag_not_ours_field,"['30270-10174', '30270-10573', '30270-10833', '30270-13303', '30270-13877', '30270-13955', '30270-14496', '30270-14977', '30270-9767']"

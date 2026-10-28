@@ -1,0 +1,9 @@
+entity,reports,any_injury,serious_or_fatal,airbag_any,sv_stationary_share,first,last
+Waymo,2399,213,11,105,58.0,2021-07,2026-09
+Zoox,172,35,0,9,37.0,2021-07,2026-09
+Cruise,155,26,3,12,32.0,2021-07,2024-11
+General Motors,149,25,3,13,32.0,2021-08,2024-11
+Transdev Alternative Services,140,12,0,5,46.0,2021-07,2025-05
+Avride,84,3,0,8,21.0,2023-10,2026-08
+May Mobility,48,4,0,1,33.0,2021-07,2026-08
+Tesla,36,2,0,0,36.0,2025-07,2026-08

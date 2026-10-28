@@ -1,0 +1,5 @@
+branch,end state,conditional P,end-state rate IPMM
+Waymo stationary (stopped/parked),Injury,0.081,0.35622995698948506
+Waymo stationary (stopped/parked),No injury,0.919,4.041670746584405
+Waymo moving,Injury,0.095,0.25934783970751374
+Waymo moving,No injury,0.905,2.470629420371578

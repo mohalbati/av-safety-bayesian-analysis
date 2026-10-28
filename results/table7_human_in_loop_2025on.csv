@@ -1,0 +1,7 @@
+entity,reports,remote_operator_in_narrative,test_driver_present,manual_or_takeover,any_human_action,human action share %,remote share %
+Waymo,1687,2,76,51,53,3.1,0.1
+Zoox,105,0,1,47,47,44.8,0.0
+Avride,82,0,8,3,3,3.7,0.0
+Tesla,36,5,0,3,22,61.1,13.9
+May Mobility,26,0,1,4,4,15.4,0.0
+Transdev Alternative Services,6,0,5,2,2,33.3,0.0

@@ -1,0 +1,10 @@
+outcome,exceedance probability,reduction at least %
+Serious injury or worse,0.95,80.64891376332247
+Serious injury or worse,0.5,89.32797492716264
+Serious injury or worse,0.05,94.90780640673896
+Airbag deployment (any vehicle),0.95,80.13099235784901
+Airbag deployment (any vehicle),0.5,83.53625692619919
+Airbag deployment (any vehicle),0.05,86.51582555370196
+Any injury reported,0.95,81.6151947757091
+Any injury reported,0.5,83.77074678341606
+Any injury reported,0.05,85.7523166730467

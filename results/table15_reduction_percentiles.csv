@@ -1,0 +1,7 @@
+outcome,counts,median %,2.5%,97.5%,P(reduction>50%),P(reduction>75%)
+Serious injury or worse,This analysis (k = 6),89.32650651501513,78.6434915571004,95.66402960584983,1.0,0.9933725
+Serious injury or worse,Bayesian with Waymo's count (k = 3),94.51015867553397,86.136906391765,98.53962739138545,1.0,0.99983
+Airbag deployment (any vehicle),This analysis (k = 72),83.53212097621861,79.44702985411442,87.04956845432942,1.0,0.9999525
+Airbag deployment (any vehicle),Bayesian with Waymo's count (k = 80),81.71371534926823,77.40085975883561,85.4263550494483,1.0,0.9983125
+Any injury reported,This analysis (k = 166),83.7695731507736,81.18528882390589,86.10714497196119,1.0,1.0
+Any injury reported,Bayesian with Waymo's count (k = 183),82.10377628203122,79.39149961797949,84.57195290533544,1.0,1.0

@@ -1,0 +1,4 @@
+outcome,SGO count (this analysis),Waymo-published IPMM,implied Waymo count,posterior median IPMM,95% CrI low,95% CrI high,human benchmark IPMM,P(rate < benchmark),reduction median %,reduction 95% low %,reduction 95% high %,Waymo-published reduction %
+Serious injury or worse,6,0.01,3,0.023,0.009,0.046,0.21,1.0,89.2,78.3,95.6,94.82
+Airbag deployment (any vehicle),72,0.29,79,0.266,0.209,0.332,1.61,1.0,83.5,79.4,87.0,81.68
+Any injury reported,166,0.67,182,0.612,0.524,0.71,3.77,1.0,83.8,81.2,86.1,82.12

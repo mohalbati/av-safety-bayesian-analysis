@@ -1,0 +1,7 @@
+outcome,benchmark CV,overlap coefficient,P(Waymo rate > benchmark draw)
+Serious injury or worse,0.2,1.3361424538920508e-05,0.0
+Serious injury or worse,0.4,0.002599012440350498,5e-06
+Airbag deployment (any vehicle),0.2,3.898615305261146e-09,0.0
+Airbag deployment (any vehicle),0.4,0.00039739277841976305,7.5e-06
+Any injury reported,0.2,2.1621741527539882e-11,0.0
+Any injury reported,0.4,0.00011065840905664577,2.5e-06

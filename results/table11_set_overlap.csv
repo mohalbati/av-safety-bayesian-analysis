@@ -1,0 +1,9 @@
+set,vehicles
+"Waymo list, all rows",1977
+"  without an SGO ID (pre-SGO, Sep 2020 - Jun 2021)",2
+  outside the 5 benchmarked metros,41
+"Waymo list, SGO-era, 5 metros",1929
+This analysis,1934
+In both,1925
+Only in this analysis,9
+Only in Waymo list,4
