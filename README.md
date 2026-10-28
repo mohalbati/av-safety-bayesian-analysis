@@ -80,7 +80,7 @@ See Section 8 of the full report.
 
 ## Citation
 
-> Albati, M. (2026). *How Much Evidence Is Enough? A Bayesian Rare-Event Analysis of Driverless-Vehicle Crash Data.* Technical report and code. https://github.com/&lt;mohalbati&gt;/av-safety-bayesian-analysis
+> Albati, M. (2026). *How Much Evidence Is Enough? A Bayesian Rare-Event Analysis of Driverless-Vehicle Crash Data.* Technical report and code. https://github.com/mohalbati;/av-safety-bayesian-analysis
 
 ## License
 
