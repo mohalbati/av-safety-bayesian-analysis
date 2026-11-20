@@ -1,0 +1,10 @@
+# raw and derived data (download per data/README.md)
+data/*.csv
+data/*.txt
+data/waymo/
+results/sgo_ads_clean.csv
+results/waymo_csv2_parsed.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
