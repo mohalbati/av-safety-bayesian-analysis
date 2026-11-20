@@ -1,4 +1,5 @@
 # raw and derived data (download per data/README.md)
+results/summary.json
 data/*.csv
 data/*.txt
 data/waymo/
